@@ -4,8 +4,8 @@ import DefaultTheme from 'vitepress/theme'
 import 'virtual:group-icons.css'
 // import Layout from './Layout.vue'
 
-import BackToTopButton from '@miletorix/vitepress-back-to-top-button'
-import '@miletorix/vitepress-back-to-top-button/style.css'
+import BackToTopButton from '@belikellwyd/vitepress-back-to-top-button'
+import '@belikellwyd/vitepress-back-to-top-button/style.css'
 
 export default {
   extends: DefaultTheme,

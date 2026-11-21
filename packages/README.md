@@ -5,12 +5,12 @@ A lightweight Back-to-Top button Vue 3 component for VitePress. Features smooth 
 ## Live Demo and more information
 
 ✨ See it in action:  
-👉 [https://miletorix.github.io/vitepress-back-to-top-button/](https://miletorix.github.io/vitepress-back-to-top-button/)
+👉 [https://belikellwyd.github.io/vitepress-back-to-top-button/](https://belikellwyd.github.io/vitepress-back-to-top-button/)
 
 ## Installation
 
 ```sh
-npm i @miletorix/vitepress-back-to-top-button
+npm i @belikellwyd/vitepress-back-to-top-button
 ```
 
 ## Usage
@@ -22,8 +22,8 @@ npm i @miletorix/vitepress-back-to-top-button
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 
-import BackToTopButton from '@miletorix/vitepress-back-to-top-button' //[!code ++]
-import '@miletorix/vitepress-back-to-top-button/style.css' //[!code ++]
+import BackToTopButton from '@belikellwyd/vitepress-back-to-top-button' //[!code ++]
+import '@belikellwyd/vitepress-back-to-top-button/style.css' //[!code ++]
 
 export default {
   extends: DefaultTheme,
@@ -40,8 +40,8 @@ export default {
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 
-import BackToTopButton from '@miletorix/vitepress-back-to-top-button' //[!code ++]
-import '@miletorix/vitepress-back-to-top-button/style.css' //[!code ++]
+import BackToTopButton from '@belikellwyd/vitepress-back-to-top-button' //[!code ++]
+import '@belikellwyd/vitepress-back-to-top-button/style.css' //[!code ++]
 
 export default {
   extends: DefaultTheme,
@@ -58,4 +58,4 @@ export default {
 
 ### Preview - Desktop
 
-![demo-1](https://github.com/miletorix/vitepress-back-to-top-button/raw/main/assets/demo.gif)
+![demo-1](https://github.com/belikellwyd/vitepress-back-to-top-button/raw/main/assets/demo.gif)

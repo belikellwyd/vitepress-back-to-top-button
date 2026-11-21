@@ -1,12 +1,12 @@
 {
-  "name": "@miletorix/vitepress-back-to-top-button",
+  "name": "@belikellwyd/vitepress-back-to-top-button",
   "type": "module",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "repository": {
     "type": "git",
-    "url": "https://github.com/miletorix/vitepress-back-to-top-button"
+    "url": "https://github.com/belikellwyd/vitepress-back-to-top-button"
   },
-  "homepage": "https://miletorix.github.io/vitepress-back-to-top-button/",
+  "homepage": "https://belikellwyd.github.io/vitepress-back-to-top-button/",
   "description": "A lightweight Back-to-Top button Vue 3 component for VitePress. Features smooth scroll, progress ring indicating scroll percentage, dark/light theme support.",
   "main": "./dist/back-to-top-button.umd.js",
   "module": "./dist/back-to-top-button.es.js",
@@ -46,7 +46,7 @@
     "vitepress component",
     "vitepress back to top"
   ],
-  "author": "miletorix",
+  "author": "belikellwyd",
   "license": "MIT",
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.0",

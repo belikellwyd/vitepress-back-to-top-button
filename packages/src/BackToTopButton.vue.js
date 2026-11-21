@@ -1,5 +1,5 @@
-/// <reference types="C:/Users/user1/Desktop/vitepress-back-to-top-button/packages/node_modules/@vue/language-core/types/template-helpers.d.ts" />
-/// <reference types="C:/Users/user1/Desktop/vitepress-back-to-top-button/packages/node_modules/@vue/language-core/types/props-fallback.d.ts" />
+/// <reference types="C:/Users/stahovskis/Documents/projects/vitepress-back-to-top-button/packages/node_modules/@vue/language-core/types/template-helpers.d.ts" />
+/// <reference types="C:/Users/stahovskis/Documents/projects/vitepress-back-to-top-button/packages/node_modules/@vue/language-core/types/props-fallback.d.ts" />
 import { ref, onMounted, onUnmounted } from 'vue';
 const props = defineProps();
 const isDark = ref(false);

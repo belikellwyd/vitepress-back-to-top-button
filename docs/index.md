@@ -10,14 +10,14 @@ sidebar: false
 
 A lightweight Back-to-Top button Vue 3 component for VitePress. Features smooth scroll, progress ring indicating scroll percentage, dark/light theme support.
 
-![npm](https://img.shields.io/npm/v/@miletorix/vitepress-back-to-top-button)  
-![npm](https://img.shields.io/npm/dw/@miletorix/vitepress-back-to-top-button)  
-![license](https://img.shields.io/npm/l/@miletorix/vitepress-back-to-top-button)
+![npm](https://img.shields.io/npm/v/@belikellwyd/vitepress-back-to-top-button)  
+![npm](https://img.shields.io/npm/dw/@belikellwyd/vitepress-back-to-top-button)  
+![license](https://img.shields.io/npm/l/@belikellwyd/vitepress-back-to-top-button)
 
 ## Installation
 
 ```sh [npm]
-npm i @miletorix/vitepress-back-to-top-button
+npm i @belikellwyd/vitepress-back-to-top-button
 ```
 
 ## Usage
@@ -28,8 +28,8 @@ npm i @miletorix/vitepress-back-to-top-button
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 
-import BackToTopButton from '@miletorix/vitepress-back-to-top-button' //[!code ++]
-import '@miletorix/vitepress-back-to-top-button/style.css' //[!code ++]
+import BackToTopButton from '@belikellwyd/vitepress-back-to-top-button' //[!code ++]
+import '@belikellwyd/vitepress-back-to-top-button/style.css' //[!code ++]
 
 export default {
   extends: DefaultTheme,
@@ -45,8 +45,8 @@ export default {
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 
-import BackToTopButton from '@miletorix/vitepress-back-to-top-button' //[!code ++]
-import '@miletorix/vitepress-back-to-top-button/style.css' //[!code ++]
+import BackToTopButton from '@belikellwyd/vitepress-back-to-top-button' //[!code ++]
+import '@belikellwyd/vitepress-back-to-top-button/style.css' //[!code ++]
 
 export default {
   extends: DefaultTheme,
