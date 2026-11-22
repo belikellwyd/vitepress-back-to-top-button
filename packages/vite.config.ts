@@ -6,7 +6,7 @@ export default defineConfig({
   build: {
     lib: {
       entry: 'src/index.ts',
-      name: 'BackToTopButton',
+      formats: ['es'],
       fileName: (format) => `back-to-top-button.${format}.js`
     },
     cssCodeSplit: true,
