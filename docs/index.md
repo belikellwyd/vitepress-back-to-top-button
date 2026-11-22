@@ -14,6 +14,21 @@ A lightweight Back-to-Top button Vue 3 component for VitePress. Features smooth 
 ![npm](https://img.shields.io/npm/dw/@belikellwyd/vitepress-back-to-top-button)  
 ![license](https://img.shields.io/npm/l/@belikellwyd/vitepress-back-to-top-button)
 
+> [!IMPORTANT] Package migration
+>
+> This package has moved from `@miletorix/vitepress-back-to-top-button` to `@belikellwyd/vitepress-back-to-top-button`.
+>
+> Please update your dependencies accordingly.
+
+```typescript [docs/.vitepress/theme/index.ts]
+
+import BackToTopButton from '@miletorix/vitepress-back-to-top-button' //[!code --]
+import '@miletorix/vitepress-back-to-top-button/style.css' //[!code --]
+
+import BackToTopButton from '@belikellwyd/vitepress-back-to-top-button' //[!code ++]
+import '@belikellwyd/vitepress-back-to-top-button/style.css' //[!code ++]
+```
+
 ## Installation
 
 ```sh [npm]
