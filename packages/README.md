@@ -2,6 +2,12 @@
 
 A lightweight Back-to-Top button Vue 3 component for VitePress. Features smooth scroll, progress ring indicating scroll percentage, dark/light theme support.
 
+> **Package migration**
+>
+> This package has moved from `@miletorix/vitepress-back-to-top-button` to `@belikellwyd/vitepress-back-to-top-button`.
+>
+> Please update your dependencies accordingly.
+
 ## Live Demo and more information
 
 ✨ See it in action:  
